@@ -1,9 +1,8 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Des Sources Aux Données en Humanités Numériques
+author: SaD-HN
+url: https://sadhn-madics.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
-
+Les humanités numériques constituent un domaine à l'interface des arts, lettres, sciences humaines et sociales et des sciences du numérique. Les approches proposées visent à tirer profit des solutions opérationnelles offertes par les sciences du numérique pour soutenir et amplifier l’exploitation des données produites et manipulées dans les domaines relevant des humanités. Cet atelier s'intéresse à trois défis posés par les sources de données exploitées en sciences humaines et sociales : la représentation d'informations spatiales, temporelles, incertaines et incomplètes ; le rapport de la données produite à la source dont elle est extraite ; l'analyse des données comme support de l'étude critique des sources. 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
