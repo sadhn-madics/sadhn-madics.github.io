@@ -36,22 +36,13 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Action RoCED
+    url: 'https://www.irit.fr/ROCED/'
+    desc: "Site Web de l'action Reasoning on Complex and Evolving Data, commune aux GdR MADICS et IA (2019 à 2023)"
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Action Graphes de connaissances géohistoriques
+    url: https://gcgh-magis.github.io/
+    desc: "Site Web de l'action de recherche Graphes de connaissances géohistoriques du GdR CNRS MAGIS"
 
 footer_entries:
   - title: Site Web MADICS
