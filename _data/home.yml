@@ -9,31 +9,17 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Journée d'études AFIA-MADICS-MAGIS
+    url: seminaire-commun-afia
+    desc: Thématiques, programme et informations pratiques
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Symposium MADICS 2024
+    url: session-symposium-madics
+    desc: Thématiques, programme et informations pratiques
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Les données des Humanités Numériques
+    url: carto-labos-data-hn
+    desc: Cartographie des équipes et des jeux de données en humanités numériques
 
 old_project_entries:
   - title: Action RoCED
