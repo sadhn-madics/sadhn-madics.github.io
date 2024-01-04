@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
+  - title: Accueil
+    url: https://sadhn-madics.github.io/
+
+  - title: À propos
     url: about
 
-  - title: blog
+  - title: Actualités
     url: blog
-
-  - title: website
-    url: https://www.abhinav.co
 
 project_entries:
   - title: Project 1
@@ -54,14 +54,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Site Web MADICS
+    url: https://www.madics.fr/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/sadhn-madics
 
   - title: feed
     url: feed.xml
