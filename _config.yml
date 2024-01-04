@@ -32,9 +32,9 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
+    title_blog: Actualités
     title_projects: Activités
     title_misc_list: Détails
-    title_blog: Actualités
     title_old_projects: Ressources
 
 soopr:
