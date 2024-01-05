@@ -9,7 +9,7 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Journée d'études AFIA-MADICS-MAGIS
+  - title: Journée d'étude AFIA-MADICS-MAGIS
     url: seminaire-commun-afia
     desc: Thématiques, programme et informations pratiques
 
