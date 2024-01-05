@@ -7,6 +7,10 @@ permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
+sitelogo:
+  alt: GDR MADICS
+  target: madics.fr
+
 # twitter:
     # username: abhinav # update or delete this
     # card: summary_large_image
