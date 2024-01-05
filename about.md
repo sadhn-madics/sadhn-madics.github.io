@@ -38,4 +38,10 @@ L’atelier a pour objectif de mettre en relation les chercheurs en ALL-SHS et e
 
 Nous avons également pour but de produire une première cartographie des laboratoires travaillant sur les thématiques ciblées ainsi que des jeux de données et plus particulièrement des graphes de connaissances produits ou manipulés par les chercheurs français. Elle sera publiée sur le site Web de l’atelier. L’objectif de cette cartographie est d’une part de favoriser les collaborations et d’autre part de faire naître des interactions entre chercheurs en sciences du numérique et en humanités. La mise à disposition de jeux de données caractérisés permettra d’évaluer et de comparer des approches existantes et de susciter la proposition de nouvelles répondant à des problématiques ouvertes.
 
+## Contacts
 
+**E-mail des porteur.euse.s :** 
+
+**Liste de diffusion:** 
+
+Pour s'inscrire, ...
