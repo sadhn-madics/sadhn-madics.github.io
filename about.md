@@ -9,7 +9,7 @@ title: À propos
 - [Nathalie Hernandez](https://www.irit.fr/~Nathalie.Hernandez/) (IRIT, Université Toulouse Jean Jaures, UT2J)
 - [Nathalie Abadie](https://www.umr-lastig.fr/nathalie-abadie/) (LaSTIG, Université Gustave Eiffel, ENSG, IGN)
 - [Bertrand Duménieu](http://crh.ehess.fr/index.php?5206) (CRH, École des Hautes Études en Sciences Sociales)
-- [Sébastien Poublanc](https://framespa.univ-tlse2.fr/accueil/annuaire/annuaire-des-chercheurs/sebastien-poublanc#/)(FRAMESPA, Université Toulouse Jean Jaures, UT2J)
+- [Sébastien Poublanc](https://framespa.univ-tlse2.fr/accueil/annuaire/annuaire-des-chercheurs/sebastien-poublanc#/) (FRAMESPA, Université Toulouse Jean Jaures, UT2J)
 
 
 ## Contexte et positionnement scientifique
