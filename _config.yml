@@ -9,7 +9,7 @@ favicon: "./logo.png" # relative path to site's favicon
 
 sitelogo:
   alt: GDR MADICS
-  target: madics.fr
+  target: https://www.madics.fr/
 
 # twitter:
     # username: abhinav # update or delete this
