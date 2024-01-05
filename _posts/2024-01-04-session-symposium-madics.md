@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Sad-HN
+author: SaD-HN
 ---
 
 # Session thématique "des Sources aux Données en Humanités Numériques"
