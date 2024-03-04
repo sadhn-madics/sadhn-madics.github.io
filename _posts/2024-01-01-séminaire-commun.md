@@ -33,7 +33,9 @@ Nous encourageons les propositions de communications sur des travaux, originaux 
 ### Dates importantes
 
 **Date limite pour l'envoi des résumés:** 1er avril 2024
+
 **Réponse aux auteurs:** 8 avril 2024
+
 **Date de la journée:** 3 mai 2024
 
 ### Lieu
