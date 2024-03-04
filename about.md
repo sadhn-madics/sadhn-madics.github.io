@@ -42,6 +42,17 @@ Nous avons également pour but de produire une première cartographie des labora
 
 **E-mail des porteur.euse.s :** 
 
+* nathalie.hernandez{at}irit.fr
+* nathalie-f.abadie{at}ign.fr
+* bertrand.dumenieu{at}ehess.fr
+* sebastien.poublanc{at}univ-tlse2.fr
+
 **Liste de diffusion:** 
 
-Pour s'inscrire, ...
+La liste de diffusion vous permet de recevoir les dernières nouvelles de l'atelier (promis, on ne va pas vous spammer!) et d'échanger avec les autres personnes inscrites sur la liste. L'adresse pour envoyer un message à la liste est:
+
+sadhn-madics{at}pub.univ-eiffel.fr
+
+Pour s'inscrire, il faut envoyer un email à : sympa{at}pub.univ-eiffel.fr
+En objet il faut ajouter : subscribe sadhn-madics Prénom Nom
+Et il faut laisser le corps du message vide. 
