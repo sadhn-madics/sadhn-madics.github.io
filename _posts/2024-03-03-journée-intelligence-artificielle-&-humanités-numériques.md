@@ -5,7 +5,7 @@ tags: [séminaire, madics, magis, afia]
 ---
 
 
-# Journée IA et Humanités Numériques
+# Motivation et objectifs de la journée
 
 Le vocable *humanités numériques* s’est aujourd’hui imposé pour désigner les travaux de recherche relevant tantôt de la création, la gestion et la mise en œuvre de jeux de données numériques dans les domaines des sciences humaines et sociales, de la modélisation et la formalisation de processus sociaux à l’aide d’outils mathématiques et informatiques, ou de l’analyse des usages et des communautés numériques du point de vue des sciences humaines et sociales [1]. Si ces trois domaines mobilisent des communautés scientifiques potentiellement différentes, tous posent de véritables défis scientifiques aux approches développées dans le domaine de l’intelligence artificielle, qu’il s’agisse d’analyse automatique de documents anciens, de traitement automatique du langage naturel, de recherche d’informations, de représentation de connaissances, de classification, de simulation, etc. 
 
