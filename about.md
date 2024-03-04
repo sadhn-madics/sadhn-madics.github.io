@@ -54,5 +54,7 @@ La liste de diffusion vous permet de recevoir les dernières nouvelles de l'atel
 sadhn-madics{at}pub.univ-eiffel.fr
 
 Pour s'inscrire, il faut envoyer un email à : sympa{at}pub.univ-eiffel.fr
+
 En objet il faut ajouter : subscribe sadhn-madics Prénom Nom
+
 Et il faut laisser le corps du message vide. 
