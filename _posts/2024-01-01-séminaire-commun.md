@@ -30,7 +30,7 @@ Nous encourageons les propositions de communications sur des travaux, originaux 
 
 ## Informations pratiques
 
-### Dates importantes
+### Dates importantes:
 
 **Date limite pour l'envoi des résumés:** 1er avril 2024
 
@@ -38,7 +38,7 @@ Nous encourageons les propositions de communications sur des travaux, originaux 
 
 **Date de la journée:** 3 mai 2024
 
-### Lieu
+### Lieu:
 Bibliothèque nationale de France, [Site François Mitterrand](https://www.bnf.fr/fr/francois-mitterrand) (salle 70, à coté du Petit Auditorium), Quai François Mauriac, 75006 Paris.
 
 ## Programme
