@@ -9,7 +9,7 @@ author: SaD-HN
 
 **Lieu:** 6ème symposium du GdR MADICS, Blois
 
-**Thème:** Défis ouverts en science des données pour la représentation des données et l'analyse critique des sources en humanités numériques**
+**Thème:** Défis ouverts en science des données pour la représentation des données et l'analyse critique des sources en humanités numériques
 
 ## Programme
 
