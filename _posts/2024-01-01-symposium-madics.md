@@ -11,7 +11,7 @@ Cette session thématique vise à présenter un éventail des défis ouverts en 
 
 **Date:** 29 mai 2024, de 13h30 à 15h30
 
-**Lieu:** 6ème symposium du GdR MADICS, Blois
+**Lieu:** 6ème symposium du GdR MADICS, IUT de Blois, site Jean Jaurès.
 
 ## Programme
 
