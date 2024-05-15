@@ -48,7 +48,7 @@ Pour les membres de MADICS, contacter les responsables de l'atelier pour obtenir
 
 L'inscription est également requise pour assister à la journée à distance: le lien de connexion vous sera envoyé à l'adresse email indiquée lors de votre inscription.
 
-## Programme prévisionnel
+## Programme
 
 **9:00 - 9:15: Accueil - Café**
 
@@ -58,7 +58,7 @@ Fatiha SAIS (AFIA), Nathalie HERNANDEZ (MADICS) et par Nathalie ABADIE (MAGIS), 
 
 Tiphaine Vacqué (adjointe à la directrice des services et des réseaux et responsable de la Cellule IA de la BnF), La feuille de route et les projets IA de la BnF.
 
-Marie Carlin (Datalab, BnF), Le DataLab comme lieu d'expérimentations et d'accueil des chercheurs qui souhaitent faire des traitements IA sur les collections de la BnF.
+Catherine Eloi (Datalab, BnF), Le DataLab comme lieu d'expérimentations et d'accueil des chercheurs qui souhaitent faire des traitements IA sur les collections de la BnF.
 
 **9:55 - 10:45: Session 1 - Systèmes de recommandation pour l’analyse de grands corpus textuels**
 
