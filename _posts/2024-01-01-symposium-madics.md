@@ -15,7 +15,17 @@ Cette session thématique vise à présenter un éventail des défis ouverts en 
 
 ## Programme
 
-A venir!
+**14h30**	Présentation de l'atelier et retour sur la journée AFIA-MADICS-MAGIS [Humanités Numériques & IA](https://sadhn-madics.github.io/journée-intelligence-artificielle-et-humanités-numériques)
+
+**14h45**	Présentation de Cyrille Suire (L3i): *Humanités numériques au L3i : exploration et convergence interdisciplinaire*
+
+**15h15**	Présentation de Maxime Morge (CRIStAL): *Modélisation informatique et analyse empirique de processus sociaux au sein des communautés numériques. Le cas de R et Pandas sur la plateforme Stack Overflow.*
+
+**15h45**	Présentation de Yannis Addi (Archives Henri Poincaré, Nancy): *Intégrer et modéliser des connaissances : python comme outil du web sémantique*
+
+**15h45**	Conclusions
+
+**16h00**	Fin de la session
 
 
 
