@@ -111,3 +111,7 @@ Ljudmila Petkovic (Sorbonne Université, équipe-projet ObTIC), Mesurer l’infl
 **17:00 - 18:00: Table ronde - Défis ouverts en IA pour les humanités numériques**
 
 Intervenants: Stéphane Lamassé (LaMOP, UMR 8589, CNRS – université Paris 1 Panthéon-Sorbonne), Mathieu d’Aquin (équipe K, LORIA), Stéphane Pouyllau (Huma-Num CNRS UAR 3598), Nicolas Sauger (IR* Progedo), Christopher Kermovant (Teklia)
+
+## Ressources
+
+Les supports des présentations et les illustrations réalisées par [Adèle Huguet](https://adelehuguet.wordpress.com/) au cours de la journée sont accessibles sur le [site Web de l'AFIA](https://afia.asso.fr/les-journees-communes/humanite-numerique-et-ia/).
