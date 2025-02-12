@@ -2,7 +2,7 @@ title: Des Sources Aux Données Historiques en Humanités Numériques
 author: SaD-2HN
 url: https://sadhn-madics.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-    Les humanités numériques, à l’interface des sciences humaines et sociales (SHS) et des sciences du numérique, exploitent des outils numériques pour analyser les données issues des disciplines comme l’Histoire ou la Sociologie. L’action SaD-2HN s'intéresse plus particulièrement aux données historiques et identifie trois défis : la nature complexe de ces données (temporelles, incertaines, incomplètes, évolutives), leur lien essentiel avec les sources, et leur analyse approfondie pour révéler des dynamiques historiques. Ces défis rejoignent les axes scientifiques du projet MADICS (modélisation, exploration, gouvernance et infrastructures des données).  
+    Les humanités numériques, à l’interface des sciences humaines et sociales (SHS) et des sciences du numérique, exploitent des outils numériques pour analyser les données issues des disciplines comme l’Histoire ou la Sociologie. L’action SaD-2HN s'intéresse plus particulièrement aux données historiques et identifie trois défis : la nature complexe de ces données (temporelles, incertaines, incomplètes, évolutives), leur lien essentiel avec les sources, et leur analyse approfondie pour révéler des dynamiques historiques. Ces défis rejoignent les axes scientifiques du projet MADICS: modélisation, exploration, gouvernance et infrastructures des données.  
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
