@@ -2,7 +2,7 @@ title: Des Sources Aux Données en Humanités Numériques
 author: SaD-HN
 url: https://sadhn-madics.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-    Les humanités numériques constituent un domaine à l'interface des arts, lettres, sciences humaines et sociales et des sciences du numérique. Les approches proposées visent à tirer profit des solutions opérationnelles offertes par les sciences du numérique pour soutenir et amplifier l’exploitation des données produites et manipulées dans les domaines relevant des humanités. Cet atelier s'intéresse à trois défis posés par les sources de données exploitées en sciences humaines et sociales : la représentation d'informations spatiales, temporelles, incertaines et incomplètes ; le rapport de la données produite à la source dont elle est extraite ; l'analyse des données comme support de l'étude critique des sources. 
+    Les humanités numériques, à l’interface des sciences humaines et sociales (SHS) et des sciences du numérique, exploitent des outils numériques pour analyser les données issues des disciplines comme l’Histoire ou la Sociologie. L’action SaD-2HN s'intéresse plus particulièrement aux données historiques et identifie trois défis : la nature complexe de ces données (temporelles, incertaines, incomplètes, évolutives), leur lien essentiel avec les sources, et leur analyse approfondie pour révéler des dynamiques historiques. Ces défis rejoignent les axes scientifiques du projet MADICS (modélisation, exploration, gouvernance et infrastructures des données).  
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
