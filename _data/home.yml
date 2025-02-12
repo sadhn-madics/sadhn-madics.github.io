@@ -9,15 +9,15 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Journée d'étude AFIA-MADICS-MAGIS
+  - title: Journée thématique PFIA "Humanités Numériques et IA"
     url: journée-intelligence-artificielle-et-humanités-numériques
     desc: Présentation, appel à contributions, programme et informations pratiques
 
-  - title: Symposium MADICS 2024
+  - title: Symposium MADICS 2025
     url: symposium-madics
     desc: Thématiques, programme et informations pratiques
 
-  - title: Les données des Humanités Numériques
+  - title: Ressources pour les Humanités Numériques
     url: cartographie-des-équipes-et-jeux-de-données
     desc: Cartographie des équipes et des jeux de données en humanités numériques
 
