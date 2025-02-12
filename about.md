@@ -25,6 +25,7 @@ Le premier défi est lié à la nature des données. Les données historiques pe
 * incertaine (comment traiter l’incertitude liée à la réalité que la donnée permet de reconstruire ainsi que l’incertitude liée au processus d’extraction)
 * incomplète (comment considérer un ensemble de données qui correspondent à une reconstruction partielle de la réalité)
 * évolutive (comment considérer un ensemble de données témoins d’une réalité qui évolue au cours du temps)
+  
 Il s’agira notamment d’identifier les domaines et sous domaines des SHS pour lesquels ces dimensions ont une place prépondérante et d’identifier les approches proposées pour prendre en compte une ou plusieurs de ces dimensions.
 
 Le deuxième défi est la prise en compte du lien infrangible qu’il existe entre la donnée et la source dont elle est extraite. Sans connaissance et accès à ce lien, la donnée est inexploitable par les chercheurs qui étudient le passé. Manipuler des données dans une approche d’humanités numériques implique donc d’être en mesure de prendre en compte le contexte associé à la donnée elle-même mais également le contexte associé à la source. Ces contextes sont particulièrement complexes à capturer car les sources manipulées sont souvent peu structurées, le souvent anciennes et donc difficilement transcriptibles et la donnée extraite relève d'une interprétation de l'expert. Pour cet axe, il s’agira donc d’identifier les approches existantes et les verrous restant à lever pour prendre en compte ce rapport de la donnée à la source en SHS.
