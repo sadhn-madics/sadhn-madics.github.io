@@ -30,6 +30,10 @@ old_project_entries:
     url: https://gcgh-magis.github.io/
     desc: "Site Web de l'action de recherche Graphes de connaissances géohistoriques du GdR CNRS MAGIS"
 
+  - title: Atelier Des Sources Aux Données en Humanités Numériques
+    url: archive-sad-hn
+    desc: "Archives du site Web de l'atelier Des Sources Aux Données en Humanités Numériques du GdR CNRS MADICS"
+
 footer_entries:
   - title: Site Web MADICS
     url: https://www.madics.fr/
