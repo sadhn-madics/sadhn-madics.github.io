@@ -18,7 +18,7 @@ project_entries:
     desc: Thématiques, programme et informations pratiques
 
   - title: Ressources pour les Humanités Numériques
-    url: cartographie-des-équipes-et-jeux-de-données
+    url: cartographie-des-équipes-et-des-ressources
     desc: Cartographie des équipes et des jeux de données en humanités numériques
 
 old_project_entries:
