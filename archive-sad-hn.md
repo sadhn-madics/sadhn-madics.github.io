@@ -15,8 +15,8 @@ title: L'atelier des Sources aux Données pour les Humanités Numériques
 - [Contexte et positionnement de l'atelier](#tcontexte)
 - [Objectifs de l'atelier](#objectifs)
 - [Activités 2024](#activites)
-- [Symposium MADICS 2024](#symposium)
-- [Journée Humanités Numériques et IA 2024](#hnia2024)
+- [Symposium MADICS](#symposium)
+- [Journée Humanités Numériques et IA](#hnia2024)
 
 ## [Contexte et positionnement scientifique](#contexte)
 Les humanités numériques constituent un domaine à l'interface des arts, lettres, sciences humaines et sociales et des sciences du numérique. La finalité des approches proposées est de mettre en place des solutions opérationnelles offertes par les sciences du numérique pour soutenir et amplifier l’exploitation des données produites et manipulées dans les domaines relevant des humanités.
@@ -46,7 +46,7 @@ Nous avons également pour but de produire une première cartographie des labora
 
 ## [Activités de l'atelier au cours de l'année 2024](#activites)
 
-### Session thématique "des Sources aux Données en Humanités Numériques" (#symposium)
+### [Session thématique "des Sources aux Données en Humanités Numériques"](#symposium)
 
 Cette session thématique vise à présenter un éventail des défis ouverts en science des données pour l'extraction et la représentation des données et l'analyse critique des sources en humanités numériques. 
 
