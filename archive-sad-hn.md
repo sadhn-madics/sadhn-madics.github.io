@@ -1,6 +1,6 @@
 ---
 layout: post
-title: À propos
+title: L'atelier des Sources aux Données pour les Humanités Numériques
 ---
 
 **Mots-Clés :** humanités numériques, représentation de connaissances, raisonnement, analyse, graphe de connaissances, archives.
@@ -11,8 +11,14 @@ title: À propos
 - [Bertrand Duménieu](http://crh.ehess.fr/index.php?5206) (CRH, École des Hautes Études en Sciences Sociales)
 - [Sébastien Poublanc](https://framespa.univ-tlse2.fr/accueil/annuaire/annuaire-des-chercheurs/sebastien-poublanc#/) (FRAMESPA, Université Toulouse Jean Jaures, UT2J)
 
+## Présentation et activités
+- [Contexte et positionnement de l'atelier](#tcontexte)
+- [Objectifs de l'atelier](#objectifs)
+- [Activités 2024](#activites)
+- [Symposium MADICS 2024](#symposium)
+- [Journée Humnités Numériques et IA 2024](#hnia2024)
 
-## Contexte et positionnement scientifique
+## Contexte et positionnement scientifique (#contexte)
 Les humanités numériques constituent un domaine à l'interface des arts, lettres, sciences humaines et sociales et des sciences du numérique. La finalité des approches proposées est de mettre en place des solutions opérationnelles offertes par les sciences du numérique pour soutenir et amplifier l’exploitation des données produites et manipulées dans les domaines relevant des humanités.
 La richesse des humanités numériques naît précisément de la forte interdisciplinarité que ce domaine implique. Là où les sciences du numérique permettent de nouvelles perspectives aux pratiques des sciences humaines, ces dernières constituent un champ applicatif venant mettre en lumière les limites des approches et modèles utilisés couramment en sciences du numérique, notamment pour ce qui est de la gestion et la représentation des incertitude et des imprécisions inhérentes à des disciplines comme l’Histoire ou la Sociologie.
 Dans le cadre de cet atelier, nous proposons de nous intéresser à trois axes qu’il est nécessaire de prendre en compte lorsqu’il s’agit de représenter et d’analyser des données en Humanités Numériques.
@@ -33,14 +39,14 @@ En suivant ces trois axes, l’atelier aura pour objectif de s’adresser aux do
 Dans le cadre de MADICS, l'atelier reprendra une partie des thématiques abordées par l'[action ROCED](https://www.irit.fr/ROCED/) en se concentrant sur les spécificités liées aux humanités numériques qui ont notamment été mises en évidence lors de la dernière [journée organisée par ROCED](https://www.madics.fr/event/symposium-madics-5/) durant le symposium MADICS 2023.
 L'atelier aura un lien étroit avec le [GDR CNRS MAGIS](https://gdr-magis.cnrs.fr/) via son action de recherche [Graphes de connaissances géohistoriques](https://gdr-magis.cnrs.fr/actions-de-recherche/).
 
-## Objectifs de l'atelier
+## Objectifs de l'atelier (#objectifs)
 L’atelier a pour objectif de mettre en relation les chercheurs en ALL-SHS et en sciences du numérique en organisant des journées sur les 3 axes proposés. Des appels à contributions ouverts ainsi que des invitations ciblées seront proposés par les porteurs de l’atelier de façon à susciter des échanges riches sur ces thèmes. Au-delà des chercheurs travaillant sur ces thématiques, les centres de production et d'exploitation de données que sont les archives (nationale, départementales), la BnF, les bibliothèques et l’IGN seront directement sollicités pour participer à ces évènements ainsi que les opérateurs de plateformes dédiées aux Humanités tels que Huma-Num.
 
 Nous avons également pour but de produire une première cartographie des laboratoires travaillant sur les thématiques ciblées ainsi que des jeux de données et plus particulièrement des graphes de connaissances produits ou manipulés par les chercheurs français. Elle sera publiée sur le site Web de l’atelier. L’objectif de cette cartographie est d’une part de favoriser les collaborations et d’autre part de faire naître des interactions entre chercheurs en sciences du numérique et en humanités. La mise à disposition de jeux de données caractérisés permettra d’évaluer et de comparer des approches existantes et de susciter la proposition de nouvelles répondant à des problématiques ouvertes.
 
-## Activités de l'atelier au cours de l'année 2024
+## Activités de l'atelier au cours de l'année 2024 (#activites)
 
-### Session thématique "des Sources aux Données en Humanités Numériques"
+### Session thématique "des Sources aux Données en Humanités Numériques" (#symposium)
 
 Cette session thématique vise à présenter un éventail des défis ouverts en science des données pour l'extraction et la représentation des données et l'analyse critique des sources en humanités numériques. 
 
@@ -64,7 +70,7 @@ Cette session thématique vise à présenter un éventail des défis ouverts en 
 
 **16h00**	Fin de la session
 
-### Journée "Humanités Numériques et Intelligence Artificielle"
+### Journée "Humanités Numériques et Intelligence Artificielle" (#hnia2024)
 
 #### Motivation et objectifs de la journée
 
