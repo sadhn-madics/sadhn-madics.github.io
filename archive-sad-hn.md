@@ -12,7 +12,7 @@ title: L'atelier des Sources aux Données pour les Humanités Numériques
 - [Sébastien Poublanc](https://framespa.univ-tlse2.fr/accueil/annuaire/annuaire-des-chercheurs/sebastien-poublanc#/) (FRAMESPA, Université Toulouse Jean Jaures, UT2J)
 
 ## Présentation et activités
-- [Contexte et positionnement de l'atelier](#contexte)
+- [Contexte et positionnement de l'atelier](#contexte-et-positionnement-scientifique)
 - [Objectifs de l'atelier](#objectifs)
 - [Activités 2024](#activites)
 - [Symposium MADICS](#symposium)
