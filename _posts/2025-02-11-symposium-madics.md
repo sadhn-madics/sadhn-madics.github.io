@@ -5,13 +5,13 @@ author: SaD-2HN
 
 # Session thématique "des Sources aux Données Historiques en Humanités Numériques"
 
-Cette session a pour but d’analyser les caractéristiques des données en humanités numériques en réunissant des spécialistes en sciences humaines et sociales, en humanités numériques et en sciences des données. Elle dressera un état des lieux des travaux en cours et mettra en lumière les défis à relever dans ce domaine.
+Cette session a pour but d’analyser les caractéristiques des données en humanités numériques en réunissant des spécialistes en sciences humaines et sociales, en humanités numériques et en sciences des données. Nous souhaitons faire un état des lieux des projets de recherche en humanités numériques en cours ou encore en montage et des données historiques qu'ils mobilisent pour mettre en lumière les défis à relever à la fois dans les domaines des sciences humaines et sociales concernés et en science des données.
  
-Nous sommes particulièrement intéressés par les propositions qui mettront en avant des approches prenant en compte les dimensions :
-* temporelle – comment identifier et prendre en compte l’ancrage temporel de la donnée ;
-* incertaine – comment traiter l’incertitude liée à la réalité que la donnée permet de reconstruire ainsi que l’incertitude liée au processus d’extraction ;
-* incomplète – comment considérer un ensemble de données qui correspondent à une reconstruction partielle de la réalité ;
-* évolutive – comment considérer un ensemble de données témoignant d’une réalité qui évolue au cours du temps.
+Nous sommes particulièrement intéressés par les propositions qui mettront en avant des jeux de données présentant les dimanesions suivantes et éventuellement des approches visant à les traiter:
+* temporelle : Comment identifier et prendre en compte l’ancrage temporel de la donnée ?
+* incertaine : Comment traiter l’incertitude liée à la réalité que la donnée permet de reconstruire ainsi que l’incertitude liée au processus d’extraction ?
+* incomplète : Comment considérer un ensemble de données qui correspondent à une reconstruction partielle de la réalité ?
+* évolutive : Comment considérer un ensemble de données témoignant d’une réalité qui évolue au cours du temps?
 
 ## Appel à communications
 
