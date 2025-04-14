@@ -27,7 +27,7 @@ Nous attendons vos propositions que nous espérons nombreuses pour enrichir les 
 
 **Lieu:** 7ème symposium du GdR MADICS, Toulouse. 
 
-**Inscription gratuite mais obligatoire:" [Sur le site Web Du GDR MADICS.](https://www.madics.fr/event/symposium-madics-7/)
+**Inscription gratuite mais obligatoire:** [Voir sur le site Web Du GDR MADICS.](https://www.madics.fr/event/symposium-madics-7/)
 
 ## Programme
 
