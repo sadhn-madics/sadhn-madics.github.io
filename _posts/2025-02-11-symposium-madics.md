@@ -15,7 +15,7 @@ Nous sommes particulièrement intéressés par les propositions qui mettront en 
 
 ## Appel à communications
 
-Pour proposer une intervention, merci d’envoyer **un titre et un résumé de 15 lignes environ** aux porteuses et porteurs de l’action avant le **19 avril**. 
+Pour proposer une intervention, merci d’envoyer **un titre et un résumé de 15 lignes environ** aux porteuses et porteurs de l’action avant le **19 avril**: nathalie.hernandez[]irit.fr ; nathalie-f.abadie[]ign.fr ; bertrand.dumenieu[]ehess.fr ; sebastien.poublanc[]cnrs.fr
 
 Les propositions seront évaluées dès leur réception par les organisateurs. L’action pourra prendre en charge le financement du déplacement de jeunes chercheuses et chercheurs souhaitant présenter à cette session.
 
@@ -23,9 +23,11 @@ Nous attendons vos propositions que nous espérons nombreuses pour enrichir les 
 
 ## Informations pratiques
 
-**Date:** 27-28 mai 2025, jour et horaire exact à venir.
+**Date:** 27 mai 2025, 11h00-13h00.
 
-**Lieu:** 7ème symposium du GdR MADICS, Toulouse.
+**Lieu:** 7ème symposium du GdR MADICS, Toulouse. 
+
+**Inscription gratuite mais obligatoire:" [Sur le site Web Du GDR MADICS.](https://www.madics.fr/event/symposium-madics-7/)
 
 ## Programme
 
