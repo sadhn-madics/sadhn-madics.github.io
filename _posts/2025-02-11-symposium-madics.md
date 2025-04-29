@@ -45,7 +45,7 @@ Nous attendons vos propositions que nous espérons nombreuses pour enrichir les 
   
 **12h25** Gabriel Frossard - *L’IA au service de la démographie historique (2022-2026).* 
 
-**12h4**0 Questions et discussion 
+**12h40** Questions et discussion 
 
 **12h50** Synthèse et perspectives
 
