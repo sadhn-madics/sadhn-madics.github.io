@@ -37,11 +37,11 @@ La journée s’adresse aussi bien aux jeunes chercheurs qu’aux chercheurs plu
 
 ## Programme
 
-#### 9h00-10h00: Conférence invitée IC 
+### 9h00-10h00: Conférence invitée IC 
 
 En ouverture de la journée thématique Humanités Numériques et IA, nous vous proposons d'assister à la présentation invitée de la conférence d'Ingénierie des Connaissances, qui sera donnée par Marieke van Erp (KNAW Humanities Cluster): [*Layering Knowledge to Unpack the Layers of Meaning in Historical Texts*](https://pfia2025.u-bourgogne.fr/conferences/ic/#conf_invitee). 
 
-#### 10h30-12h00: Session IC-HNIA – Ingénierie des connaissances pour les humanités numériques
+### 10h30-12h00: Session IC-HNIA – Ingénierie des connaissances pour les humanités numériques
 
 * **10h30-11h00 :** *PeGazUs : une méthode de reconstitution de l’évolution des entités géographiques à partir de données hétérogènes et fragmentaires.* Charly Bernard, Nathalie Abadie, Bertrand Duménieu et Julien Perret. 
 
@@ -50,7 +50,7 @@ En ouverture de la journée thématique Humanités Numériques et IA, nous vous 
 * **11h20-11h50 :** *Extraction et interprétation sémantique de tables anciennes : défis et perspectives.* Solenn Tual, Nathalie Abadie, Joseph Chazalon, Bertrand Duménieu et Julien Perret. 
 
 
-#### 14h00-16h00: Session HNIA - APIA – Des sources aux données: enjeux de traçabilité des données pour les humanités numériques
+### 14h00-16h00: Session HNIA - APIA – Des sources aux données: enjeux de traçabilité des données pour les humanités numériques
    
 * **14h00-14h20 :** *Repenser les collections patrimoniales par le prisme de l'IA.* Marion Charpier et Emmanuelle Bermès. 
 
