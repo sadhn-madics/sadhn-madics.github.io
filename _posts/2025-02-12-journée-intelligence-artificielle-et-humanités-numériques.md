@@ -30,10 +30,39 @@ La journée s’adresse aussi bien aux jeunes chercheurs qu’aux chercheurs plu
 
 ## Dates importantes
 
-* **Soumission des articles :**  11 avril 2025 
-* **Notification aux auteurs :** 9 mai  2025
-* **Réception des versions définitives :**  16 mai 2025
+* **Soumission des articles :**  ~~11 avril~~ 25 avril 2025 
+* **Notification aux auteurs :** ~~9 mai~~ 19 mai  2025
+* **Réception des versions définitives :**  ~~16 mai~~ 31 mai 2025
 * **Date de la journée :** 4 juillet 2025
+
+## Programme
+
+#### 9h00-10h00: Conférence invitée IC 
+
+En ouverture de la journée thématique Humanités Numériques et IA, nous vous proposons d'assister à la présentation invitée de la conférence d'Ingénierie des Connaissances, qui sera donnée par Marieke van Erp (KNAW Humanities Cluster): [*Layering Knowledge to Unpack the Layers of Meaning in Historical Texts*](https://pfia2025.u-bourgogne.fr/conferences/ic/#conf_invitee). 
+
+#### 10h30-12h00: Session IC-HNIA – Ingénierie des connaissances pour les humanités numériques
+
+* **10h30-11h00 :** *PeGazUs : une méthode de reconstitution de l’évolution des entités géographiques à partir de données hétérogènes et fragmentaires.* Charly Bernard, Nathalie Abadie, Bertrand Duménieu et Julien Perret. 
+
+* **11h00-11h20 :** *Développement d’une ontologie pour l'analyse de textes de décisions administratives d’Ancien Régime par des Grands Modèles de Langage.* Gilles Falquet, Christophe Chazalon, Marco Sorbi, Stéphane Marchand-Maillet et Laurent Moccozet. 
+
+* **11h20-11h50 :** *Extraction et interprétation sémantique de tables anciennes : défis et perspectives.* Solenn Tual, Nathalie Abadie, Joseph Chazalon, Bertrand Duménieu et Julien Perret. 
+
+
+#### 14h00-16h00: Session HNIA - APIA – Des sources aux données: enjeux de traçabilité des données pour les humanités numériques
+   
+* **14h00-14h20 :** *Repenser les collections patrimoniales par le prisme de l'IA.* Marion Charpier et Emmanuelle Bermès. 
+
+* **14h20-14h40 :** *Amélioration de la segmentation de scènes par l’exploitation de relations spatiales : application aux sceaux byzantins.* Ege Şendoğan, Victoria Eyharabide et Isabelle Bloch. 
+
+* **14h40-15h00 :** *Harold: un système de requête itératif et interactif pour l'exploration de corpus de patrimoine culturel.* Prunelle Daudré-Treuil, Olivier Bruneau, Jean Lieber, Emmanuel Nauer et Laurent Rollet. 
+
+* **15h00-15h20 :** *Quand les humanités numériques rencontrent l’IA : une enquête sur la propriété à Paris.* Aaron Parmentelat.
+
+* **15h20-15h40 :** *Evaluation automatique du retour à la source dans un contexte historique long et bruité : les débats parlementaires de la Troisième République française.* Aurélien Pellet, Julien Perez et Marie Puren. 
+
+* **15h40-16h00 :** Synthèse des présentations autour des enjeux de traçabilité des données pour les Humanités numériques.
 
 ## Soumissions
 
