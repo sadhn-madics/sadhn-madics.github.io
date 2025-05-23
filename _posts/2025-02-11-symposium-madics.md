@@ -37,7 +37,9 @@ Nous attendons vos propositions que nous espérons nombreuses pour enrichir les 
 
 **11h20** Quentin Bernet -  *Penser la production artistique de l′Europe médiévale, entre données, marges et modèles.*
 
-**11h45** Christophe Tufféry, Thomas Andre, Jérémie Garniaux, Louis Marguet, Stéphane Renault, Erwan Vaissié, Pierre Allard, Raphaël Angevin, Pierre-Antoine Beauvais, Didier Binder, Françoise Bostyn, Céline Bressy-Léandri, Jean-Philippe Colin, Elsa Defranould, Paul Fernandes, Alix Gibaud, Sophie Grégoire, Mikaël Guiavarc’h, Francois-Xavier Le Bourdonnec, Harold Lethrosne, Ludovic Mevel André Morala, Nicolas Naudinot, Antoine Pasqualini, Michel Piboule, Alain Queffelec, Jean-Paul Raynal, Antonin Tomasso, Alain Turq et Vincent Delvigne - *Méthodes et dispositifs pour caractériser, analyser et partager les données sur les formations et les gîtes à silicites. Retour d’expérience sur vingt années de travaux interdisciplinaires.*
+**11h35** Christophe Tufféry, Thomas Andre, Jérémie Garniaux, Louis Marguet, Stéphane Renault, Erwan Vaissié, Pierre Allard, Raphaël Angevin, Pierre-Antoine Beauvais, Didier Binder, Françoise Bostyn, Céline Bressy-Léandri, Jean-Philippe Colin, Elsa Defranould, Paul Fernandes, Alix Gibaud, Sophie Grégoire, Mikaël Guiavarc’h, Francois-Xavier Le Bourdonnec, Harold Lethrosne, Ludovic Mevel André Morala, Nicolas Naudinot, Antoine Pasqualini, Michel Piboule, Alain Queffelec, Jean-Paul Raynal, Antonin Tomasso, Alain Turq et Vincent Delvigne - *Méthodes et dispositifs pour caractériser, analyser et partager les données sur les formations et les gîtes à silicites. Retour d’expérience sur vingt années de travaux interdisciplinaires.*
+
+**11h50** Questions et discussion 
 
 **12h00** Luana Batista-Goulart - *L’analyse de données en bioarchéologie : défis et limitations.*
 
