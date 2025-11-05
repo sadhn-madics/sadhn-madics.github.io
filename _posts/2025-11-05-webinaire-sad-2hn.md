@@ -11,7 +11,7 @@ Ce webinaire a pour but de réunir des spécialistes en sciences humaines et soc
 
 Pour l'automne-hiver 2025, nous vous proposons un cycle de présentations autour du traitement de données historiques particulières: celles du produites et diffusées sur le Web.
 
-Séances: de 12h30 à 13h30
+**Séances: de 12h30 à 13h30**
 
 * Vendredi 21 novembre 2025, avec Timothy Bourbotte (LabSIC, Université Sorbonne Paris Nord): [Qui domine la blockchain Bitcoin ? - Approche historique et cadre théorique pour interpréter les données numériques au cœur des rapports de pouvoir.](https://sadhn-madics.github.io/webinaire-séance-1)
 
