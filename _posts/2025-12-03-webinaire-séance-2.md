@@ -14,10 +14,10 @@ Cette séance est consacrée à l'analyse des archives du Web en histoire.
 **Résumé :**
 Cette présentation reviendra sur l’analyse des archives du Web en tant que sources de données en histoire et sur leur utilisation pour l’enseignement à la recherche auprès d’étudiants de master. Elle abordera ces deux aspects via les axes suivants:
 
-Les archives du Web et les nouveaux paradigmes
+* Les archives du Web et les nouveaux paradigmes.
 
-Enseigner la recherche en histoire immédiate avec les archives du Web
+* Enseigner la recherche en histoire immédiate avec les archives du Web.
 
-Perspectives pour une histoire du temps présent à l’ère du technofascisme. 
+* Perspectives pour une histoire du temps présent à l’ère du technofascisme. 
 
 **Revoir la présentation (jusqu'au 20 janvier 2025):** lien à venir
