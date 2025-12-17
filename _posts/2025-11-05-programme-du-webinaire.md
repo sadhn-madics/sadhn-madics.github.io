@@ -17,4 +17,4 @@ Pour l'automne-hiver 2025, nous vous proposons un cycle de présentations autour
 
 * Vendredi 19 décembre 2025, avec Benjamin Thierry (iRHiST - Sorbonne Université) : [Les archives du Web. De la recherche à l’enseignement à la recherche. Comment faire émerger un nouvel objet d’enseignement ?](https://sadhn-madics.github.io/webinaire-séance-2)
 
-* Vendredi 16 janvier 2026, avec Gilles Trédan (Laboratoire d'Analyse et d'Architecture des Systèmes) et Julien Figeac (Centre d'Etude et de Recherche Travail Organisation Pouvoir): (Analyse des recommandations YouTube](https://sadhn-madics.github.io/webinaire-séance-3)
+* Vendredi 16 janvier 2026, avec Gilles Trédan (Laboratoire d'Analyse et d'Architecture des Systèmes) et Julien Figeac (Centre d'Etude et de Recherche Travail Organisation Pouvoir): [Analyse des recommandations YouTube](https://sadhn-madics.github.io/webinaire-séance-3)
