@@ -5,7 +5,7 @@ author: Action SAD-2HN
 
 **Date:** vendredi 16 janvier 2026, de 12h30 à 13h30. 
 
-Cette séance est consacrée à l'analyse des archives du Web en histoire.
+Cette séance est consacrée à l'analyse des résultats de systèmes de recommandations de vidéos sur le Web.
 
 ## Programme:
 
