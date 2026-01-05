@@ -20,4 +20,4 @@ Cette présentation reviendra sur l’analyse des archives du Web en tant que so
 
 * Perspectives pour une histoire du temps présent à l’ère du technofascisme. 
 
-**Revoir la présentation (jusqu'au 20 janvier 2025):** lien à venir
+**Revoir la présentation :** [cliquer ici!](https://marsha.scalelite.bbb.numerique-esr.fr/video/9e1bbf1f424e11d4b46844c5cb9d73fecf548b3e-1766143190001/)
