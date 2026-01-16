@@ -13,14 +13,14 @@ Ce webinaire a pour but de réunir des spécialistes en sciences humaines et soc
 
 Pour l'automne-hiver 2025, nous vous proposons un cycle de présentations autour du traitement de données historiques particulières: celles du produites et diffusées sur le Web.
 
-* Vendredi 21 novembre 2025, avec Timothy Bourbotte (LabSIC, Université Sorbonne Paris Nord): [Qui domine la blockchain Bitcoin ? - Approche historique et cadre théorique pour interpréter les données numériques au cœur des rapports de pouvoir.](https://sadhn-madics.github.io/webinaire-séance-1)
+* **Vendredi 21 novembre 2025**, avec Timothy Bourbotte (LabSIC, Université Sorbonne Paris Nord): [Qui domine la blockchain Bitcoin ? - Approche historique et cadre théorique pour interpréter les données numériques au cœur des rapports de pouvoir.](https://sadhn-madics.github.io/webinaire-séance-1)
 
-* Vendredi 19 décembre 2025, avec Benjamin Thierry (iRHiST - Sorbonne Université) : [Les archives du Web. De la recherche à l’enseignement à la recherche. Comment faire émerger un nouvel objet d’enseignement ?](https://sadhn-madics.github.io/webinaire-séance-2)
+* **Vendredi 19 décembre 2025**, avec Benjamin Thierry (iRHiST - Sorbonne Université) : [Les archives du Web. De la recherche à l’enseignement à la recherche. Comment faire émerger un nouvel objet d’enseignement ?](https://sadhn-madics.github.io/webinaire-séance-2)
 
-* Vendredi 16 janvier 2026, avec Gilles Trédan (Laboratoire d'Analyse et d'Architecture des Systèmes) et Julien Figeac (Centre d'Etude et de Recherche Travail Organisation Pouvoir): [Analyse des recommandations YouTube](https://sadhn-madics.github.io/webinaire-séance-3)
+* **Vendredi 16 janvier 2026**, avec Gilles Trédan (Laboratoire d'Analyse et d'Architecture des Systèmes) et Julien Figeac (Centre d'Etude et de Recherche Travail Organisation Pouvoir): [Analyse des recommandations YouTube](https://sadhn-madics.github.io/webinaire-séance-3)
 
 ## Cycle 2: Analyse de données historiques en SHS computationnelles
 
 Pour le printemps 2026, nous vous proposons un cycle de présentations sur les approches d'analyse de données historiques mises en oeuvre en Sciences Humaines et Sociales computationnelles.
 
-* Vendredi 20 février 2026, avec Sébastien De Valeriola (Université libre de Bruxelles): [Méthodes quantitatives et robustesse des résultats de recherche : vers une nouvelle forme de critique](https://sadhn-madics.github.io/webinaire-séance-4)
+* **Vendredi 20 février 2026**, avec Sébastien De Valeriola (Université libre de Bruxelles): [Méthodes quantitatives et robustesse des résultats de recherche : vers une nouvelle forme de critique](https://sadhn-madics.github.io/webinaire-séance-4)
