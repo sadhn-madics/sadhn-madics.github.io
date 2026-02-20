@@ -24,3 +24,5 @@ Pour l'automne-hiver 2025, nous vous proposons un cycle de présentations autour
 Pour le printemps 2026, nous vous proposons un cycle de présentations sur les approches d'analyse de données historiques mises en oeuvre en Sciences Humaines et Sociales computationnelles.
 
 * **Vendredi 20 février 2026**, avec Sébastien De Valeriola (Université libre de Bruxelles): [Méthodes quantitatives et robustesse des résultats de recherche : vers une nouvelle forme de critique](https://sadhn-madics.github.io/webinaire-séance-4)
+
+* **Vendredi 20 mars 2026**, avec Béatrice Joyeux-Prunel (Université de Genève): [Peut-on gérer un déluge d’images ? Méthodes et enjeux critiques du projet ‘Visual Contagions’](https://sadhn-madics.github.io/webinaire-séance-5)
