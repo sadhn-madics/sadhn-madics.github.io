@@ -14,4 +14,4 @@ Cette séance est consacrée à l'évaluation de la robustesse des analyses quan
 **Résumé :**
 La grande majorité des données du passé présentent des problèmes structurels de qualité, par exemple en termes de complétude. Dans le cadre d’un projet de recherche dans lequel des méthodes quantitatives sont appliquées, il est toutefois possible d’évaluer l’impact de ces imperfections sur les résultats obtenus en mobilisant la notion statistique de robustesse. Dans cet exposé, nous proposons un framework général d’évaluation de la robustesse applicable aux sciences humaines. Nous en illustrons le fonctionnement à travers deux études de cas : d’une part, l’analyse de la distribution spatiale (point pattern analysis) de données archéologiques ; d’autre part, l’évaluation de la stabilité des mesures de centralité dans l’analyse des réseaux historiques.
 
-**Revoir la présentation :** lien à venir
+**Revoir la présentation :** [Cilquez ici!](https://marsha.scalelite.bbb.numerique-esr.fr/video/9e1bbf1f424e11d4b46844c5cb9d73fecf548b3e-1771586656692/)
