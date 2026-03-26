@@ -16,4 +16,4 @@ Cette séance propose une réflexion sur les enjeux et les limites de l'analyse 
 
 Béatrice Joyeux-Prunel est professeure à l’université de Genève (Suisse) depuis 2019, chaire d’humanités numériques, après avoir été MCF en histoire de l’art contemporain à l’ENS de Paris (2006-2019). Elle travaille sur la mondialisation artistique et visuelle. Dernières publications : The Rise of the Avant-Garde (1848-1918) : A Transnational History (Brill, 2026), et avec la data designer Guillemette Crozet, L’Art Contemporain. Une infographie (CNRS Editions, 2024).
 
-**Revoir la présentation :** [https://marsha.scalelite.bbb.numerique-esr.fr/video/9e1bbf1f424e11d4b46844c5cb9d73fecf548b3e-1774005508197/](cliquez ici !)
+**Revoir la présentation :** [cliquez ici !](https://marsha.scalelite.bbb.numerique-esr.fr/video/9e1bbf1f424e11d4b46844c5cb9d73fecf548b3e-1774005508197/)
