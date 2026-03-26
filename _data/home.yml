@@ -9,17 +9,17 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: Journée thématique PFIA "Humanités Numériques et IA"
-    url: journée-intelligence-artificielle-et-humanités-numériques
-    desc: Présentation, appel à contributions, programme et informations pratiques
+  - title: Symposium MADICS 2026
+    url: symposium-madics
+    desc: Présentation, programme et informations pratiques
 
   - title: Webinaire SAD-2HN
     url: programme-du-webinaire
     desc: Présentation, programme et informations pratiques
 
-  - title: Ressources pour les Humanités Numériques
-    url: cartographie-des-équipes-et-des-ressources
-    desc: Cartographie des équipes et des jeux de données en humanités numériques
+  - title: Journée thématique PFIA "Humanités Numériques et IA"
+    url: journée-intelligence-artificielle-et-humanités-numériques
+    desc: Présentation, appel à contributions, programme et informations pratiques
 
 old_project_entries:
   - title: Action RoCED
